@@ -1,0 +1,39 @@
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="0%" y1="52.3928852%" x2="100%" y2="73.7732573%" id="linearGradient-1">
+            <stop stop-color="#0053CD" offset="0%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="38.5366996%" x2="100%" y2="38.5367006%" id="linearGradient-2">
+            <stop stop-color="#0053CD" offset="0%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="66.550293%" id="linearGradient-3">
+            <stop stop-color="#0053CD" offset="0%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+      
+          <linearGradient x1="18.5939813%" y1="75.0881552%" x2="88.0134978%" y2="38.5367006%" id="linearGradient-122">
+            <stop stop-color="#FFFFFF" stop-opacity="0.30897618" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+
+    </defs>
+    <g id="深知" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Deepknow.82d7f8a3" fill-rule="nonzero">
+            <g id="Group-14">
+                <rect id="Rectangle-Copy-13" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="32" height="32"></rect>
+                <g id="深知-copy">
+                    <g id="Group-7">
+                        <polygon id="Combined-Shape" fill="#2684FF" points="28.2666667 16.1 32 21 16 32 0 21 3.73333333 16.1 16 24.5333333"></polygon>
+                        <polygon id="Combined-Shape" fill="url(#linearGradient-1)" points="16 32 16 24.5333333 28.2666667 16.1 32 21"></polygon>
+                        <polygon id="Combined-Shape" fill="#2684FF" points="22.9333333 9.23333333 26.6666667 14.1333333 16 21.4666667 5.33333333 14.1333333 9.06666667 9.23333333 16 14"></polygon>
+                        <polygon id="Combined-Shape" fill="url(#linearGradient-1)" points="16 21.4666667 16 14 22.9333333 9.23333333 26.6666667 14.1333333"></polygon>
+                        <polygon id="Combined-Shape" fill="#2684FF" points="21.3333333 7 16 10.6666667 10.6666667 7 16 0"></polygon>
+                        <polygon id="Combined-Shape" fill="url(#linearGradient-3)" points="16 0 21.3333333 7 16 10.6666667"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

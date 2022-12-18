@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1817361d.css",
+    "main.js": "/static/js/main.0bbd8d15.js",
+    "static/js/787.dcfe279c.chunk.js": "/static/js/787.dcfe279c.chunk.js",
+    "static/media/customer2.png": "/static/media/customer2.64deaf587184d8e65f16.png",
+    "static/media/customer.png": "/static/media/customer.6ad2565cad19b7990e44.png",
+    "static/media/samplePicture.png": "/static/media/samplePicture.24bbdb76105886e8b5e7.png",
+    "static/media/firstbank-logo.png": "/static/media/firstbank-logo.77122cb3ec8d8e564fed.png",
+    "static/media/card2cash.png": "/static/media/card2cash.7667e7e2d4da137bb75a.png",
+    "static/media/fcmb-logo.png": "/static/media/fcmb-logo.17505fe39632ddf6c3d3.png",
+    "static/media/Ellipse21.svg": "/static/media/Ellipse21.303d083da55c9157d2466ad4edb642c0.svg",
+    "static/media/gtb-png.png": "/static/media/gtb-png.7aaef929770c9e955b8e.png",
+    "static/media/payment.png": "/static/media/payment.a77f33acb54ea0b7b678.png",
+    "static/media/captcha.svg": "/static/media/captcha.9a4da9880e0ba028e120e6600aaf6f4a.svg",
+    "static/media/pyramid.svg": "/static/media/pyramid.6e55cfa7a5562047d3768c1393e049d4.svg",
+    "index.html": "/index.html",
+    "static/media/acc-bg.svg": "/static/media/acc-bg.7b92827924462963e5aa2ba3b9f10f6f.svg",
+    "static/media/emailIcon.svg": "/static/media/emailIcon.fd6913747193bc6927775ff9f724981f.svg",
+    "main.1817361d.css.map": "/static/css/main.1817361d.css.map",
+    "main.0bbd8d15.js.map": "/static/js/main.0bbd8d15.js.map",
+    "787.dcfe279c.chunk.js.map": "/static/js/787.dcfe279c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1817361d.css",
+    "static/js/main.0bbd8d15.js"
+  ]
+}
